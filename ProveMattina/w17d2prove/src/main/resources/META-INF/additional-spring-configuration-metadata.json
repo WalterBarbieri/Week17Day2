@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "application.supersecret",
+    "type": "java.lang.String",
+    "description": "A description for 'application.supersecret'"
+  },
+  {
+    "name": "application.myvalue",
+    "type": "java.lang.String",
+    "description": "A description for 'application.myvalue'"
+  },
+  {
+    "name": "pg.user",
+    "type": "java.lang.String",
+    "description": "A description for 'pg.user'"
+  },
+  {
+    "name": "pg.password",
+    "type": "java.lang.String",
+    "description": "A description for 'pg.password'"
+  },
+  {
+    "name": "pg.db",
+    "type": "java.lang.String",
+    "description": "A description for 'pg.db'"
+  }
+]}
