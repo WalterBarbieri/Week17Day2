@@ -1,7 +1,7 @@
 package w17d2prove.w17d2prove;
 
 public class CustomMath {
-	public int sum(int a, int b) {
+	public static int sum(int a, int b) {
 		return a + b;
 	}
 
